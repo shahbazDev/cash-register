@@ -79,8 +79,12 @@ font-family: 'Poppins', sans-serif;
  /* footer */
 
 footer {
-    text-align: center;
-    margin: 2rem;
+  bottom:0;
+  position: absolute;
+  text-align: center;
+  left:0;
+  right:0;
+  font-size: large;
   }
   
 
